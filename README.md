@@ -20,7 +20,7 @@
 
 - **Files** — move files between phone and computer: drag them in, download whole folders in one click.
 - **Photos and videos** — browse your whole library on the big screen and save the originals, in full quality.
-- **Music** — play your phone's songs on the computer, with cover art and a retro LED VU meter.
+- **Music and karaoke** — play your phone's songs on the computer, with cover art and a retro LED VU meter; MIDI files play too, and karaoke files (.kar) show the lyrics in time.
 - **Chat and clipboard** — copy on the phone, paste on the computer (and the other way round); send yourself texts, links and files.
 - **Calls and notifications** — see who is calling and get your phone's notifications on the computer (Android).
 - **Screen and camera** — watch your phone's screen live, use its camera, take a screenshot in one click.
@@ -35,6 +35,8 @@
 | Music with cover art and LED VU meter | Incoming call on your computer |
 | ![Chat](docs/web-chat.jpg) | ![Screen mirroring](docs/web-mirroring.jpg) |
 | Chat with your phone, with attachments | Your phone's screen, live |
+| ![Karaoke](docs/web-karaoke.jpg) | ![Settings](docs/desktop-settings.jpg) |
+| Karaoke: the lyrics light up as you sing | The app keeps itself up to date |
 
 ## Get started in 3 steps
 
@@ -61,8 +63,6 @@ No computer app? Just type the address shown on the phone into any browser.
 
 Aerios keeps itself up to date: when a new version is out it's downloaded in the background and installed the next
 time you quit the app.
-
-![Settings](docs/desktop-settings.jpg)
 
 ## Questions
 
@@ -98,7 +98,7 @@ button or Siri.
 
 - **File** — sposta file tra telefono e computer: trascinali, scarica intere cartelle con un clic.
 - **Foto e video** — sfoglia tutta la libreria sullo schermo grande e salva gli originali, in qualità piena.
-- **Musica** — ascolta sul computer le canzoni del telefono, con copertina e VU meter LED in stile retrò.
+- **Musica e karaoke** — ascolta sul computer le canzoni del telefono, con copertina e VU meter LED in stile retrò; suonano anche i file MIDI, e i karaoke (.kar) mostrano il testo a tempo.
 - **Chat e appunti** — copia sul telefono, incolla sul computer (e viceversa); mandati testi, link e file.
 - **Chiamate e notifiche** — vedi chi ti chiama e ricevi le notifiche del telefono sul computer (Android).
 - **Schermo e fotocamera** — guarda lo schermo del telefono dal vivo, usa la sua fotocamera, fai uno screenshot con un clic.
@@ -113,6 +113,8 @@ button or Siri.
 | Musica con copertina e VU meter LED | Chiamata in arrivo sul computer |
 | ![Chat](docs/web-chat.jpg) | ![Schermo del telefono](docs/web-mirroring.jpg) |
 | Chat con il telefono, con allegati | Lo schermo del telefono, dal vivo |
+| ![Karaoke](docs/web-karaoke.jpg) | ![Impostazioni](docs/desktop-settings.jpg) |
+| Karaoke: il testo si illumina mentre canti | L'app si aggiorna da sola |
 
 ## Inizia in 3 passi
 
@@ -139,8 +141,6 @@ Niente app sul computer? Basta scrivere in un browser l'indirizzo mostrato sul t
 
 Aerios si aggiorna da sola: quando esce una nuova versione la scarica in background e la installa la prossima volta che
 chiudi l'app.
-
-![Impostazioni](docs/desktop-settings.jpg)
 
 ## Domande
 
